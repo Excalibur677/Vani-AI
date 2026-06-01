@@ -24,12 +24,12 @@ Most graduates from tier-2 and tier-3 cities have deep technical potential but l
 
 | Feature | Description | Status |
 | :--- | :--- | :--- |
-| **📄 Resume & JD Analysis** | Extracts skills, projects, and experiences from PDF resumes; cross-references with a pasted JD to generate highly targeted, role-specific questions. | **New  |
-| **📈 Dynamic Difficulty Progression** | Tracks performance in real-time. Questions scale up (Easy ➡️ Medium ➡️ Hard) if answers are strong, and adaptively tone down if structural gaps are flagged. | **New |
-| **⏳ Per-Question Time Constraints** | Enforces strict, configurable timers per response. Answers exceeding thresholds are penalized within the time efficiency metric. | **New  |
-| **🎯 Dual-Scoring Matrix** | Computes scores on 4 traditional NSDC pillars along with 5 core execution dimensions: Accuracy, Clarity, Depth, Relevance, and Time Efficiency. | **New  |
-| **💼 Hiring Readiness Verdict** | Generates an explicit "Hire / Maybe / Not Ready" indicator mapped directly to the analyzed Job Description. | **New  |
-| **💪 Strengths & Weaknesses** | Breaks down exact core competencies and communication blind spots along with structured tips. | **New  |
+| **📄 Resume & JD Analysis** | Extracts skills, projects, and experiences from PDF resumes; cross-references with a pasted JD to generate highly targeted, role-specific questions. | New  |
+| **📈 Dynamic Difficulty Progression** | Tracks performance in real-time. Questions scale up (Easy ➡️ Medium ➡️ Hard) if answers are strong, and adaptively tone down if structural gaps are flagged. | New |
+| **⏳ Per-Question Time Constraints** | Enforces strict, configurable timers per response. Answers exceeding thresholds are penalized within the time efficiency metric. | New  |
+| **🎯 Dual-Scoring Matrix** | Computes scores on 4 traditional NSDC pillars along with 5 core execution dimensions: Accuracy, Clarity, Depth, Relevance, and Time Efficiency. | New  |
+| **💼 Hiring Readiness Verdict** | Generates an explicit "Hire / Maybe / Not Ready" indicator mapped directly to the analyzed Job Description. | New  |
+| **💪 Strengths & Weaknesses** | Breaks down exact core competencies and communication blind spots along with structured tips. | New  |
 | **🎤 Live Voice Interview** | Real-time mic recording with low-latency Text-to-Speech (TTS) question playback. | Existing |
 | **📊 Audio Analytics** | Measures Words Per Minute (WPM), tracks silence gaps, and counts filler words. | Existing |
 | **🌐 Hinglish Intelligence** | Detects local language transitions and maps out professional English alternatives. | Existing |
