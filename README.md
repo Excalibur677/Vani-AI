@@ -1,6 +1,4 @@
-Here is the updated `README.md` file with the color badges removed, maintaining a clean, interesting, and completely hand-written presentation:
 
-```markdown
 VaniAI 🎤
 > **Speak Better. Get Hired.** 🚀
 
